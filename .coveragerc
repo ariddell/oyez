@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = oyez
+omit = oyez/tests/*,oyez/openstack/*
+
+[report]
+ignore-errors = True
